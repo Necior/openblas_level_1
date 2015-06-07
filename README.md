@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-We need an OpenBLAS library installed. For example, on Debian, we may run:
+We need an OpenBLAS library installed. For example, on Debian, we may run (as root):
 
 ```
 apt-get install libopenblas-dev
@@ -11,6 +11,8 @@ apt-get install libopenblas-dev
 to install appropriate package.
 
 ## Usage
+
+Run (as normal user):
 
 ```
 git clone https://github.com/Necior/openblas_level_1.git
