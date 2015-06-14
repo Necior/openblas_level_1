@@ -20,3 +20,5 @@ cd openblas_level_1
 make
 ./openblas_level_1_example
 ```
+
+`./openblas_level_1_example_benchmark` runs a simple benchmark.
